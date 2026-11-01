@@ -10,8 +10,8 @@
 
 
 <!-- codex-pixel-art -->
-## Pixel art
+## Project visual
 
-![Pixel art for Support_Vector_Machines_SVM](assets/pixel-art.svg)
+![Pixel-art cover for Support_Vector_Machines_SVM](assets/project-cover.png)
 
-A small visual signature for this repository.
+<sub>Pixel-art adaptation of [OpenMoji bar chart](https://github.com/hfg-gmuend/openmoji/blob/master/color/618x618/1F4CA.png) by OpenMoji contributors, licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Source: OpenMoji.</sub>
